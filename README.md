@@ -1,15 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm Bayejid Hawlader
+Greetings!!
+I'm Bayejid Hawlader. I'm a Web Developer and WordPress expert. My experience in the web development field is ready to serve you. I have a passion for learning and sharing my knowledge with others as publicly as possible. I pride myself on doing quality work and maintain excellent communication.
+
+Skills: HTML / CSS / BOOTSTRAP / JS / PHP / WORDPRESS
+
+- 🔭 I am Web Developer
 
 
-**bayejidhawlader/bayejidhawlader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bayejidhawlader)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m a Web Developer
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Profile views](https://gpvc.arturio.dev/bayejidhawlader)  
