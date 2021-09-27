@@ -7,6 +7,8 @@ Skills : HTML / CSS / BOOTSTRAP / JS / PHP / WORDPRESS
 👑 I am Web Developer
 🧨 Love to write code
 
-
-For Business Inquiries
-bayejidhawlader@gmail.com
+👋 Hi, I’m Bayejid Hawlader (@bayejidhawlader)
+👀 I’m interested in Front End Developer & WordPress Expert
+🌱 I’m currently learning JavaScript
+💞️ I’m looking to collaborate on this community
+📫 How to reach me (bayejidhawlader@gmail.com)
